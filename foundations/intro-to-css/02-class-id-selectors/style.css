@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+p {
+    background-color: #c36767;
+}
+
+#no2 {
+    font-size: 48px;
+    color: #3287e9;
+}
+
+#no4 {
+    background-color: #e9e032;
+}
+
+.big {
+    font-size: 36px;
+}

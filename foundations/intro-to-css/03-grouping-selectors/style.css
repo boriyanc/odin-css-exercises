@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+
+.d1 {
+    color: white;
+    background-color: black;
+    border: 2px solid gray;
+}
+
+.d2 {
+    /* yellow */
+    background-color: yellow;
+    border: 2px solid black;
+}

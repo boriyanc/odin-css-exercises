@@ -14,5 +14,6 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 ### Self Check
 
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Did you make sure to not edit the HTML file? - Y
+- If you added selectors to the CSS, do they target a valid HTML element? 
+-> instead of using the reccomended "id" i decided to just move it around. learnt that the order in which the styles are *declared* is what matters and not the actual order they are written in in the stylistic announcement
